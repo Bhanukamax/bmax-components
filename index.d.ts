@@ -1,2 +1,2 @@
-declare module "@types/test-email";
-declare module "test-email";
+declare module "@types/bmax-component";
+declare module "bmax-component";
